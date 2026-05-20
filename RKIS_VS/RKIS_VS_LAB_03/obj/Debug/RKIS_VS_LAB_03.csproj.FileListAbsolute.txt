@@ -1,0 +1,10 @@
+C:\Users\shellcase_dwarf\Documents\study\RKIS_VS\RKIS_VS_LAB_03\bin\Debug\RKIS_VS_LAB_03.exe.config
+C:\Users\shellcase_dwarf\Documents\study\RKIS_VS\RKIS_VS_LAB_03\bin\Debug\RKIS_VS_LAB_03.exe
+C:\Users\shellcase_dwarf\Documents\study\RKIS_VS\RKIS_VS_LAB_03\bin\Debug\RKIS_VS_LAB_03.pdb
+C:\Users\shellcase_dwarf\Documents\study\RKIS_VS\RKIS_VS_LAB_03\obj\Debug\RKIS_VS_LAB_03.csproj.AssemblyReference.cache
+C:\Users\shellcase_dwarf\Documents\study\RKIS_VS\RKIS_VS_LAB_03\obj\Debug\RKIS_VS_LAB_03.Form1.resources
+C:\Users\shellcase_dwarf\Documents\study\RKIS_VS\RKIS_VS_LAB_03\obj\Debug\RKIS_VS_LAB_03.Properties.Resources.resources
+C:\Users\shellcase_dwarf\Documents\study\RKIS_VS\RKIS_VS_LAB_03\obj\Debug\RKIS_VS_LAB_03.csproj.GenerateResource.cache
+C:\Users\shellcase_dwarf\Documents\study\RKIS_VS\RKIS_VS_LAB_03\obj\Debug\RKIS_VS_LAB_03.csproj.CoreCompileInputs.cache
+C:\Users\shellcase_dwarf\Documents\study\RKIS_VS\RKIS_VS_LAB_03\obj\Debug\RKIS_VS_LAB_03.exe
+C:\Users\shellcase_dwarf\Documents\study\RKIS_VS\RKIS_VS_LAB_03\obj\Debug\RKIS_VS_LAB_03.pdb

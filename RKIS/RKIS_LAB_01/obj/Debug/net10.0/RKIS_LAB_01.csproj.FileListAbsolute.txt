@@ -1,0 +1,15 @@
+C:\Users\shellcase_dwarf\Documents\study\RKIS\RKIS_LAB_01\bin\Debug\net10.0\RKIS_LAB_01.exe
+C:\Users\shellcase_dwarf\Documents\study\RKIS\RKIS_LAB_01\bin\Debug\net10.0\RKIS_LAB_01.deps.json
+C:\Users\shellcase_dwarf\Documents\study\RKIS\RKIS_LAB_01\bin\Debug\net10.0\RKIS_LAB_01.runtimeconfig.json
+C:\Users\shellcase_dwarf\Documents\study\RKIS\RKIS_LAB_01\bin\Debug\net10.0\RKIS_LAB_01.dll
+C:\Users\shellcase_dwarf\Documents\study\RKIS\RKIS_LAB_01\bin\Debug\net10.0\RKIS_LAB_01.pdb
+C:\Users\shellcase_dwarf\Documents\study\RKIS\RKIS_LAB_01\obj\Debug\net10.0\RKIS_LAB_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shellcase_dwarf\Documents\study\RKIS\RKIS_LAB_01\obj\Debug\net10.0\RKIS_LAB_01.AssemblyInfoInputs.cache
+C:\Users\shellcase_dwarf\Documents\study\RKIS\RKIS_LAB_01\obj\Debug\net10.0\RKIS_LAB_01.AssemblyInfo.cs
+C:\Users\shellcase_dwarf\Documents\study\RKIS\RKIS_LAB_01\obj\Debug\net10.0\RKIS_LAB_01.csproj.CoreCompileInputs.cache
+C:\Users\shellcase_dwarf\Documents\study\RKIS\RKIS_LAB_01\obj\Debug\net10.0\RKIS_LAB_01.dll
+C:\Users\shellcase_dwarf\Documents\study\RKIS\RKIS_LAB_01\obj\Debug\net10.0\refint\RKIS_LAB_01.dll
+C:\Users\shellcase_dwarf\Documents\study\RKIS\RKIS_LAB_01\obj\Debug\net10.0\RKIS_LAB_01.pdb
+C:\Users\shellcase_dwarf\Documents\study\RKIS\RKIS_LAB_01\obj\Debug\net10.0\RKIS_LAB_01.genruntimeconfig.cache
+C:\Users\shellcase_dwarf\Documents\study\RKIS\RKIS_LAB_01\obj\Debug\net10.0\ref\RKIS_LAB_01.dll
+C:\Users\shellcase_dwarf\Documents\study\RKIS\RKIS_LAB_01\obj\Debug\net10.0\RKIS_LAB_01.sourcelink.json
